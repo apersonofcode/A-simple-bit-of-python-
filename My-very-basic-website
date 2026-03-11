@@ -1,1 +1,1 @@
-put ->  http://localhost:8000/ <- in the search bar
+put -> http://localhost:8000/ <- in the search bar
